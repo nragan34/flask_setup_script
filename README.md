@@ -11,3 +11,6 @@ Create a new project directory
 Clone or Download this project to your new project directory
 Extract project
 Run . /flask_setup_script.py
+
+
+boooo blah
