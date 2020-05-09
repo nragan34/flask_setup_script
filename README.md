@@ -12,5 +12,5 @@ Clone or Download this project to your new project directory
 Extract project
 Run . /flask_setup_script.py
 
-boooo blah
+<p>This is a test paragraph</p>
 
