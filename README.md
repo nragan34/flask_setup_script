@@ -10,7 +10,7 @@ python3 or higer
 Create a new project directory
 Clone or Download this project to your new project directory
 Extract project
-Run . /flask_setup_script.py
+Run <code>. flask_setup_script.py</code>
 
 <p>This is a test paragraph</p>
 
